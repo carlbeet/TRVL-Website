@@ -7,6 +7,13 @@ git add . (adds all files) \
 git commit -m \
 git push \
 
+## Goals
+add a signup page \
+add D3 graph \
+... later on... \ 
+set up a pay function and create a shop with STRIPE \
+create backend which writes user data to a DB \
+
 ## Available Scripts
 
 In the project directory, you can run:
