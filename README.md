@@ -8,10 +8,12 @@ git commit -m \
 git push \
 
 ## Goals
-add a signup page \
+add a signup page under "signup" \
 add D3 graph \
 ... later on... \ 
-set up a pay function and create a shop with STRIPE \
+blog function under "services": copy a google doc as text to the page? \
+set up a pay function under "products" and create a shop with STRIPE \
+a quiz \
 create backend which writes user data to a DB \
 
 ## Available Scripts
