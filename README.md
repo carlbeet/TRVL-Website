@@ -2,10 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-To update your files from src, cd .{full path}\React_Site\website\src, then use
-git add . (adds all files)
-git commit -m
-git push
+To update your files from src, cd .{full path}\React_Site\website\src, then use \
+git add . (adds all files) \
+git commit -m \
+git push \
 
 ## Available Scripts
 
